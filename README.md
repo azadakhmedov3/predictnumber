@@ -1,6 +1,6 @@
 # predict_number-
 This project predicts number <br />
-1.png --> Script predicts it as 1, because of the straight line in picture <br />
+1.png --> Script predicts it as 1<br />
 2.png --> Script predicts it as 2, because it looks like the handwriting of 2 and down side may help it in prediction <br />
 3.png --> Script predicts it as 3, because it looks like the handwriting of 3 <br />
 4.png --> Script predicts it as 4, beacuse it looks like print 4, and also <br />
